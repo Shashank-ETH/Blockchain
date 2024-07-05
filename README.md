@@ -1,1 +1,1 @@
-# Blockchain
+# Smart contracts
